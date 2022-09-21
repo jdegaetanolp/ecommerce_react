@@ -1,0 +1,20 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.nav-link {
+    color: #274092;
+}
+
+.nav-link:hover{
+    color: #274092;
+    text-decoration: underline;
+}
+
+.carrito {
+    margin-right: 20px;
+}
